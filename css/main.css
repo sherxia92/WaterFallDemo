@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#main {
+  position: relative;
+  margin: 0 auto; }
+  #main .pic-box {
+    float: left;
+    padding: 15px 0 0 15px; }
+    #main .pic-box .pic {
+      padding: 10px;
+      border: 1px solid #ccc;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      -webkit-box-shadow: 0 0 5px #ccc;
+      -moz-box-shadow: 0 0 5px #ccc;
+      box-shadow: 0 0 5px #ccc; }
+      #main .pic-box .pic img {
+        width: 260px; }
+
+/*# sourceMappingURL=main.css.map */
